@@ -103,8 +103,7 @@ export default function Hero() {
           fontSize: "1rem", lineHeight: 1.88,
           color: "var(--text-muted)", maxWidth: 480, marginBottom: "2.5rem",
         }}>
-          8+ years of ensuring product excellence through meticulous testing across software,
-          mobile apps, and web platforms. Where precision meets passion for quality.
+          With over 8 years of experience in quality assurance, I am adept at ensuring product excellence and customer satisfaction.
         </motion.p>
 
         {/* CTAs */}

@@ -45,6 +45,7 @@ export default function Contact() {
             {/* Channels */}
             <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
               <Channel icon={<Mail size={18} />} label="Email" value="dhaval.prajapati@gmail.com" href="mailto:dhaval.prajapati@gmail.com" />
+              <Channel icon={<Link2 size={18} />} label="Phone" value="+91 99091 55425" />
               <Channel icon={<Link2 size={18} />} label="LinkedIn" value="linkedin.com/in/dhavalprajapati" href="https://linkedin.com" />
               <Channel icon={<MapPin size={18} />} label="Location" value="Nadiad, Gujarat, India · Open to Remote" />
             </div>
