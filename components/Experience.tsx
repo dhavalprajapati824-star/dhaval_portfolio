@@ -5,35 +5,24 @@ import SectionHeader from "./SectionHeader";
 
 const jobs = [
   {
-    period: "2021 — Present",
+    period: "2023 — Present",
     title: "Senior Quality Analyst",
-    company: "Leading IT Solutions Pvt. Ltd. · Gujarat",
-    desc: "Leading QA for enterprise-grade applications across e-commerce and fintech domains. Mentoring junior QA engineers and establishing testing frameworks.",
+    company: "Techrupt Innovations",
+    desc: "Senior software QA tester with full system development lifecycle experience, including test plans, test cases, and test processes. Hands-on technology professional accustomed to working in complex, project-based projects. Multifaceted experience in QA software testing and user-acceptance testing.",
     achievements: [
-      "Reduced post-release defects by 40% through structured regression suites",
-      "Implemented TestRail-based test case management across 3 active projects",
-      "Collaborated with 5+ cross-functional teams in Agile sprints",
+      // "Reduced post-release defects by 40% through structured regression suites",
+      // "Implemented TestRail-based test case management across 3 active projects",
+      // "Collaborated with 5+ cross-functional teams in Agile sprints",
     ],
   },
   {
-    period: "2018 — 2021",
-    title: "Quality Analyst",
-    company: "TechBridge Systems · Gujarat",
-    desc: "Comprehensive manual testing for web and mobile applications in healthcare and education domains.",
+    period: "2016 — 2013",
+    title: "Senior Quality Analyst",
+    company: "Goovy Technoweb Pvt ltd.",
+    desc: "Detail-oriented Quality Analyst with experience in manual and functional testing across web and mobile applications. Skilled in creating test cases, executing test plans, identifying defects, and ensuring high-quality product delivery. Worked closely with development teams to improve software performance, usability, and reliability.",
     achievements: [
-      "Executed 300+ test cases per sprint with 95%+ coverage consistently",
-      "Led UAT sessions directly with end clients, improving satisfaction scores",
-      "Introduced exploratory testing practices across the QA team",
-    ],
-  },
-  {
-    period: "2016 — 2018",
-    title: "Junior QA Engineer",
-    company: "Softwave Technologies · Gujarat",
-    desc: "Started QA career focusing on functional testing, bug reporting, and documentation for mid-sized web projects.",
-    achievements: [
-      "Documented 200+ bugs with detailed reproduction steps and severity ratings",
-      "Built foundational expertise in STLC and defect lifecycle management",
+      // "Documented 200+ bugs with detailed reproduction steps and severity ratings",
+      // "Built foundational expertise in STLC and defect lifecycle management",
     ],
   },
 ];
